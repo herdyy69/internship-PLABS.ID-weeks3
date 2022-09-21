@@ -1,0 +1,16 @@
+<p>
+            Hi everyone, my name is Herdyansah, I am a Junior Front End Developer, im student in SMK ASSALAAM BANDUNG.
+            <br />
+            &nbsp;
+            <br />
+            I live in Bandung, Indonesian, i was born in Bandung, 16 August 2004. I'm 18 years old.
+            <br />
+            &nbsp;
+            <br />
+            Coding has been my passion and hobby since I was in senior high school. I started to learn coding by myself, and I'm still learning it.
+            <br />
+            &nbsp;
+            <br />
+            Besides coding, I also like to play games, watch movies, and listen to music. My favourite genre are rock dan slow rock, i like playing
+            guitar too.
+          </p>

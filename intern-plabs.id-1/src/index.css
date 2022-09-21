@@ -12,15 +12,17 @@ code {
     monospace;
 }
 
-.navMenu {
+.navbar > .container,
+.navbar > .container-fluid,
+.navbar > .container-sm,
+.navbar > .container-md,
+.navbar > .container-lg,
+.navbar > .container-xl,
+.navbar > .container-xxl {
   display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+  flex-wrap: inherit;
   align-items: center;
-  padding: 0 20px;
-  background-color: #535353;
-  color: white;
-  height: 50px;
+  justify-content: space-between;
 }
 ul {
   display: flex;
